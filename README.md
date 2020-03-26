@@ -1,7 +1,23 @@
-# vuejs_axios_api
+# Vue.js axios API
 
-axiosでいろいろ試してみるリポジトリ。
+## 概要
+
+* 主に`axios`でいろいろ試してみるリポジトリ
+* その他、`Vue.js`でいろいろやってみる
 
 
-- index.html  
+### 環境
+
+| | バージョン |
+|:--|:--|
+| Vue.js | 2.6.11 |
+| axios | 0.19.2 |
+
+
+---
+
+## プロジェクト
+
+- coindesk
+
   [coindesk](https://www.coindeskjapan.com/) のAPIをたたいてビットコインデータを取得。
